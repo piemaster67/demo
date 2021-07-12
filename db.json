@@ -1,157 +1,17 @@
-  {
-    name: 'TEST_START',
-    id: 20,
-    age: 23,
-    address: 'begin',
-  },
-  {
-    name: 'TEST241',
-    id: 1,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST373',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST44',
-    id: 5,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST566',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST6123',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST740987',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST12387',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST234',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST133',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST1236',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST234',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST2743',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST9234',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST612',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST78',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST456',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST7345',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST8623',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST253',
-    id: 20,
-    age: 23,
-    address: 'chaennai',
-  },
-  {
-    name: 'TEST756',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST634',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST52341',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST7645',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST4543',
-    id: 20,
-    age: 23,
-    address: 'chennai',
-  },
-  {
-    name: 'TEST_END',
-    id: 0,
-    age: 23,
-    address: 'end',
-  },
-];
+  
+{
+  "jobs": [
+    { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"},
+     { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"},
+     { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"}
+   ],
+  "history": [
+    { "startTime": "Start", "endTime": "Start", "status":"running" , "server":"start", "comments": "start" },
+      { "startTime": "18-12-04 14.45:33", "endTime": "Start", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
+      { "startTime": "18-12-04 14.45:33", "endTime": "69", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
+      { "startTime": "18-12-04 14.45:33", "endTime": "420", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
+      { "startTime": "18-12-04 14.45:33", "endTime": "999", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
+      { "startTime": "18-12-04 14.45:33", "endTime": "1000", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
+      { "startTime": "End", "endTime": "End", "status":"running" , "server":"End", "comments": "No message to be processed" },
+  ]
+}
