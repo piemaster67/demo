@@ -12,6 +12,6 @@
       { "startTime": "18-12-04 14.45:33", "endTime": "420", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
       { "startTime": "18-12-04 14.45:33", "endTime": "999", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
       { "startTime": "18-12-04 14.45:33", "endTime": "1000", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "End", "endTime": "End", "status":"running" , "server":"End", "comments": "No message to be processed" },
+      { "startTime": "End", "endTime": "End", "status":"running" , "server":"End", "comments": "No message to be processed" }
   ]
 }
