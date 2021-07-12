@@ -1,17 +1,52 @@
-  
-{
-  "jobs": [
-    { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"},
-     { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"},
-     { "name": "TEST_START", "id": 20, "age" :23, "address":"begin"}
-   ],
-  "history": [
-    { "startTime": "Start", "endTime": "Start", "status":"running" , "server":"start", "comments": "start" },
-      { "startTime": "18-12-04 14.45:33", "endTime": "Start", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "18-12-04 14.45:33", "endTime": "69", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "18-12-04 14.45:33", "endTime": "420", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "18-12-04 14.45:33", "endTime": "999", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "18-12-04 14.45:33", "endTime": "1000", "status":"running" , "server":"cmstatest_ms2", "comments": "No message to be processed" },
-      { "startTime": "End", "endTime": "End", "status":"running" , "server":"End", "comments": "No message to be processed" }
-  ]
+   "history":[
+      {
+         "startTime":"Start",
+         "endTime":"Start",
+         "status":"running",
+         "server":"start",
+         "comments":"start"
+      },
+      {
+         "startTime":"18-12-04 14.45:33",
+         "endTime":"Start",
+         "status":"running",
+         "server":"cmstatest_ms2",
+         "comments":"No message to be processed"
+      },
+      {
+         "startTime":"18-12-04 14.45:33",
+         "endTime":"69",
+         "status":"running",
+         "server":"cmstatest_ms2",
+         "comments":"No message to be processed"
+      },
+      {
+         "startTime":"18-12-04 14.45:33",
+         "endTime":"420",
+         "status":"running",
+         "server":"cmstatest_ms2",
+         "comments":"No message to be processed"
+      },
+      {
+         "startTime":"18-12-04 14.45:33",
+         "endTime":"999",
+         "status":"running",
+         "server":"cmstatest_ms2",
+         "comments":"No message to be processed"
+      },
+      {
+         "startTime":"18-12-04 14.45:33",
+         "endTime":"1000",
+         "status":"running",
+         "server":"cmstatest_ms2",
+         "comments":"No message to be processed"
+      },
+      {
+         "startTime":"End",
+         "endTime":"End",
+         "status":"running",
+         "server":"End",
+         "comments":"No message to be processed"
+      }
+   ]
 }
