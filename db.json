@@ -1,5 +1,5 @@
 {
-   "jobs":[
+   "jobs":{
       {
          "name":"TEST_START",
          "id":20,
@@ -18,8 +18,8 @@
          "age":23,
          "address":"begin"
       }
-   ],
-   "history":[
+},
+   "history":{
       {
          "startTime":"Start",
          "endTime":"Start",
@@ -69,5 +69,5 @@
          "server":"End",
          "comments":"No message to be processed"
       }
-   ]
+      }
 }
